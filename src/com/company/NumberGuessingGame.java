@@ -13,6 +13,7 @@ import java.lang.System;
 
 /**
  * Created with IntelliJ IDEA.
+ * GitHub: https://github.com/UrielGGs/NumberGuessingGame.git
  * This code was written by WuGang for object-oriented programming course assignments.
  * Don't steal code for other uses.
  * User: WuGang
@@ -64,7 +65,9 @@ public class NumberGuessingGame {
 
         System.out.println("You win!");
         System.out.println("It took you "+ tries + " tries.");
+        System.out.println("\n");
         System.out.println("This code was written by WuGang for object-oriented programming course assignments.");
         System.out.println("Don't steal code for other uses");
+        System.out.println("GitHub: https://github.com/UrielGGs/NumberGuessingGame.git");
     }
 }
